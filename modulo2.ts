@@ -1,7 +1,7 @@
 let message1: string="Bienevenidos a la clase de Typescript";
 let string1: string = "Type";
 let string2: string = "script";
-let resultado: string = string1 + " " + string2;
+let resultadoOp: string = string1 + " " + string2;
 class Vuelo {
     Aerolinea: string;
     Numero_de_vuelo: number;
@@ -49,4 +49,4 @@ let example: string = "Electiva de la profesion";
 let example1 = example.indexOf("profe");
 
   
-export{message1,resultado,vuelo1,minusculas,mayusculas,message2,example1,reemplazo,tipo,espacios,subcadena2,buscando1};
+export{message1,resultadoOp,vuelo1,minusculas,mayusculas,message2,example1,reemplazo,tipo,espacios,subcadena2,buscando1};
