@@ -52,7 +52,6 @@ function DeterminarTipo(valor1:number){
 
 //Ejecutamos la funciones
 DeterminarTipo(numero1);
-console.log(resultado);
 export {resultado};
 
 
