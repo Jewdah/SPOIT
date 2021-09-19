@@ -44,3 +44,4 @@ CalcularOperadorLogico(numero1,numero2);
 
 //Exportamos el resultado para ser usado en el archivo index.ts
 export {ResultadoFinal};
+
